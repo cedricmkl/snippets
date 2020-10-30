@@ -1,4 +1,4 @@
-package de.coolepizza.gameapi.api.utils;
+package de.coolepizza.example;
 
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemFlag;
